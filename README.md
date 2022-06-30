@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishnabhatta01
-- 👀 I’m interested in C and python programming.
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on c practcing courses.
+- 👀 I’m interested in js and php programming.
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on javascript practcing courses.
 - 📫 How to reach me gmail: bhattakrishna111
 
 <!---
