@@ -1,3 +1,20 @@
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
+<h1 align="center"> Hi! I'm Krishna <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+
+I'm Krishna Bhatta, a passionate Software Engineering student 💻.
+
+<!-- TODO: Add last video link -->
+
+- :seedling: I’m currently learning about PHP/LARAVEL.
+- :computer: Most used line of code `git commit -m "Initial Commit"`.
+- 🤔 I’m looking for an internship.
+- :speech_balloon: Ask me about anything.
+- 😄 Pronouns: He/His.
+
+
+
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=krishnabhatta01&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
@@ -24,82 +41,11 @@
   <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
 </p>
+### ⚙️ &nbsp; Git Analytics
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnabhatta01&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="410" /></p>
 
-<details>
-  <summary>More statistics ...</summary><br/>
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-304-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 111 Contributions in the Year 2022
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 32 Public Repositories
- > 
-> 🔑 4 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-🌆 Daytime    364 commits    ████████████░░░░░░░░░░░░░   50.21% 
-🌃 Evening    256 commits    ████████░░░░░░░░░░░░░░░░░   35.31% 
-🌙 Night      47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.48%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       143 commits    █████░░░░░░░░░░░░░░░░░░░░   19.72% 
-Tuesday      111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
-Wednesday    139 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.17% 
-Thursday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
-Friday       73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-Saturday     78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
-Sunday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Other                    1 hr 44 mins        ███████████░░░░░░░░░░░░░░   46.25% 
-JavaScript               1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   32.02% 
-Vue.js                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
-
-🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████░░░░░░░░░░░░   53.94% 
-Bash                     1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   35.76% 
-
-
-💻 Operating System: 
-Linux                    3 hrs 45 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      10 repos            ██████████░░░░░░░░░░░░░░░   43.48% 
-HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
-
-```
-
-</details>
 
 -----
 
